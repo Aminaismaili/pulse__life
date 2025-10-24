@@ -123,7 +123,7 @@ streamlit run app/app.py
 |-----|------|----------|
 | **Masrour Tawfik** | Encadrant | [LinkedIn](https://www.linkedin.com/in/tawfik-masrour-43163b85/) |
 | **Alae Boutarhat** | Développeuse IA | — |
-| **Amina Ismaili** | Développeuse IA & Data Scientist | [LinkedIn](https://www.linkedin.com/in/amina-ismaili-8a0420272/) |
+| **Amina Ismaili** | Développeuse IA & Data Scientist | [LinkedIn](https://www.linkedin.com/in/amina-ismaili-898731309/) |
 
 ---
 
